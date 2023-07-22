@@ -2,8 +2,6 @@
 
 ![image](https://github.com/Tejashripatil25/Power_BI/assets/124791646/3a83a81d-de0b-4caa-8748-896ce7a04159)
 
-https://news.microsoft.com/wp-content/uploads/prod/sites/41/2016/02/Power-BI-gif-header.gif
-
 Power BI is a platform that is used to connect, visualize and share data with other users.
 
  It is a business analytics and data visualization tool that converts data from sources and extracts information from that data and represents it in interactive visualizations and reports. 
